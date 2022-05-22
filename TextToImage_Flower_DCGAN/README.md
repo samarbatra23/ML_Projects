@@ -2,7 +2,10 @@
 
 ![687474703a2f2f692e696d6775722e636f6d2f644e6c32486b5a2e6a7067](https://user-images.githubusercontent.com/70341313/146421547-28b1e428-8c14-4831-bb0e-e6ab5636519a.jpeg)
 
-Image Source : Generative Adversarial Text-to-Image Synthesis Paper [link](https://arxiv.org/pdf/1605.05396.pdf)
+Image Source : Generative Adversarial Text-to-Image Synthesis Paper 
+How To Run The Jupyer Notebook : Please Download data from the following link and put it in the jupyer notebook folder and then simply run all cells of notebook [link]([https://arxiv.org/pdf/1605.05396.pdf](https://drive.google.com/file/d/1ez6GvbE1isWzGtD1h9oocheM6YcBGJoh/view?usp=sharing)) File Name : "flowers.hdf5"
+Note : It is not necessary to run the notebook, it already has all the results with visualizations inside it.
+
 
 Details of the Project Repository:
 - DCGAN_Flower_Image.ipynb is the final notebook and the one that needs to be run and evaluated.
