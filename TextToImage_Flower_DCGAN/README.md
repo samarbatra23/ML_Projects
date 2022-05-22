@@ -7,6 +7,7 @@ Image Source : Generative Adversarial Text-to-Image Synthesis Paper
 How To Run The Jupyer Notebook : Please Download data from the following link and put it in the jupyer notebook folder and then simply run all cells of notebook File Name : "DCGAN_Flower_Image.ipynb"
 
 Note : It is not necessary to run the notebook, it already has all the results with visualizations inside it.
+
 Data File : [link](https://drive.google.com/file/d/1ez6GvbE1isWzGtD1h9oocheM6YcBGJoh/view?usp=sharing)
 
 Details of the Project Repository:
